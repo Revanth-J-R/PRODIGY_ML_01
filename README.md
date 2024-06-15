@@ -1,7 +1,3 @@
-Your readme provides a good start, but it could benefit from more detail and clarity. Here’s an enhanced version:
-
----
-
 # House Price Prediction using Linear Regression
 
 ## Overview
